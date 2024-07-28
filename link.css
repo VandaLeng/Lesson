@@ -1,0 +1,57 @@
+
+body  {
+    background-color: black;
+}
+.p {
+    padding-left: 10px;
+
+}
+.OMG {
+    background-color: white;
+    border: solid;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: sans-serif;
+
+}
+.Vanda{
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+    padding: 10px;
+    background-color: aqua;
+}
+.Explain {
+    background-color: white;
+    border: solid;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+.Bank{
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+    padding: 10px;
+    background-color: orange;
+  
+}
+.WOW {
+    background-color: white;
+    border: solid;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: sans-serif;
+}
+.Nice{
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+    padding: 10px;
+    background-color: purple;
+  
+}
